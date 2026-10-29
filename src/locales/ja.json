@@ -1,1 +1,463 @@
-{}
+{
+  "site": {
+    "name": "BAKUDO攻略ガイド",
+    "shortName": "BAKUDO",
+    "tagline": "SF学園ボスラッシュ攻略、キャラクター、発売情報",
+    "description": "BAKUDOのキャラクタープロフィール、ボス攻略、戦闘メカニクス、ストーリー、トレーラー、対応プラットフォーム、PCとNintendo Switch 2の発売情報を紹介します。",
+    "legalNotice": "非公式ファンWikiです。SAYIL GAMESおよびSHUEISHA GAMESとは提携していません。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "modes": "モード",
+    "combat": "戦闘",
+    "mechanics": "メカニクス",
+    "characters": "キャラクター",
+    "release": "リリース",
+    "codes": "コード"
+  },
+  "home": {
+    "meta": {
+      "title": "BAKUDO攻略ガイド — ボス戦、キャラクター、攻略情報",
+      "description": "BAKUDOのキャラクタープロフィール、ボス攻略、戦闘メカニクス、ストーリー、トレーラー、対応プラットフォーム、PCとNintendo Switch 2の発売情報を紹介します。"
+    },
+    "hero": {
+      "eyebrow": "SF学園ボスラッシュアクション",
+      "title": "BAKUDO攻略ガイド",
+      "description": "球技のボス戦が熱いSF学園アクションゲーム『BAKUDO』を解説。キャラクター、戦闘メカニクス、ボス攻略、ストーリー、プラットフォーム情報、発売情報を掲載しています。",
+      "stats": [
+        "2027年発売予定",
+        "2プラットフォーム",
+        "1人プレイ",
+        "8言語対応"
+      ],
+      "primaryCta": "Steamで見る",
+      "secondaryCta": "公式サイト",
+      "tertiaryCta": "公式トレーラーを見る",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新情報",
+      "browse": "すべての攻略を見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "BAKUDO攻略の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "移動、カメラ操作、画面の読み方を学び、BAKUDOの毎回のプレイをより有意義にする練習習慣を身につけましょう。"
+        },
+        {
+          "number": "2",
+          "title": "戦闘の基本",
+          "description": "コアボールのラリー、返球タイミング、コート上の位置取り、防御を攻撃に変える復帰時間を理解しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "ボス戦ガイド",
+          "description": "パターン読みのルーティン、反撃チャンスの練習、10日間のクリア計画でステラ・エイトに備えましょう。"
+        },
+        {
+          "number": "4",
+          "title": "コアボールの仕組み",
+          "description": "チャンスボールを影と軌道から読み、コート中央を保ち、Sランククリアを目指しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま話題の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "ボス戦",
+        "キャラクターガイド",
+        "発売日"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "BAKUDO初心者ガイド",
+          "description": "高度なテクニックを追う前に、正確な入力、画面への意識、反復できる練習ルーティンを作りましょう。",
+          "href": "/guide/bakudo-beginner-guide"
+        },
+        {
+          "badge": "戦闘",
+          "title": "BAKUDOボス戦ガイド",
+          "description": "ステラ・エイトの予備動作を読み、各挑戦の準備を整え、復帰時間を確実な反撃につなげましょう。",
+          "href": "/combat/bakudo-boss-fight"
+        },
+        {
+          "badge": "メカニクス",
+          "title": "BAKUDO戦闘メカニクス",
+          "description": "コアボールのラリー、チャンスボール、位置取り、ランク付きクリアの関係を学びましょう。",
+          "href": "/mechanics/bakudo-gameplay"
+        },
+        {
+          "badge": "キャスト",
+          "title": "BAKUDOキャラクターガイド",
+          "description": "ソリリス学園の物語を彩るユリア、エビー、アリア、そしてステラ・エイトを紹介します。",
+          "href": "/characters/bakudo-character-guide"
+        },
+        {
+          "badge": "体験版",
+          "title": "BAKUDO体験版ガイド",
+          "description": "Steamのボスラッシュ体験版の内容と、各リプレイをより有意義にする方法を紹介します。",
+          "href": "/modes/bakudo-demo"
+        },
+        {
+          "badge": "2027",
+          "title": "BAKUDO発売日",
+          "description": "確定した2027年の発売時期、SteamとNintendo Switch 2の計画、最新の公式発表を追いましょう。",
+          "href": "/release/bakudo-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "BAKUDOとは？",
+      "paragraphs": [
+        "BAKUDOは、SAYIL GAMESが開発しSHUEISHA GAMESが発売するSF学園球技ボスラッシュアクションゲームです。ソリリス学園で、ユリアはゲーム内の10日間で学園上位のステラ・エイトを倒し、行方不明の父が残した手がかりを探さなければなりません。",
+        "戦闘ではボールの動きが攻撃になります。位置取り、返球タイミング、ボールの軌道を読むことは、反射神経と同じくらい重要です。BAKUDOは2027年にSteamとNintendo Switch 2で発売予定で、シングルプレイヤーのキャンペーンと8言語対応を備えています。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "SAYIL GAMES"
+        },
+        {
+          "label": "発売元",
+          "value": "SHUEISHA GAMES"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Steam · Switch 2"
+        },
+        {
+          "label": "発売",
+          "value": "2027"
+        },
+        {
+          "label": "プレイヤー",
+          "value": "1"
+        },
+        {
+          "label": "言語",
+          "value": "8"
+        }
+      ],
+      "cta": "BAKUDO攻略を見る"
+    },
+    "explore": {
+      "title": "BAKUDO攻略ガイドを探す",
+      "description": "初心者向けの基本、ステラ・エイトのボス戦、コアボールの仕組み、キャラクター、操作、体験版、プラットフォーム、公式情報をまとめたBAKUDO攻略を閲覧できます。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "BAKUDO初心者ガイド",
+          "description": "移動や画面の読み方から、ランク付きボス戦の前に信頼できる習慣を築く短い練習ループまで、BAKUDOの基本を学びます。",
+          "href": "/guide/bakudo-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "移動とカメラ操作から始め、一つひとつの動作を滑らかかつ意図的に行いましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "自分の状態、周囲の脅威、表示されているタイマーやインジケーターを確認しながらアリーナを読みましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "信頼できる一連の動作を、プレッシャー下でも自然に使えるまで練習しましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "ミスをしたら中立の準備状態に戻し、短い練習を振り返りましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "BAKUDOボス戦ガイド",
+          "description": "ステラ・エイトのランク順を学び、各対戦相手の予備動作を読み、復帰時間を確実な反撃機会に変えましょう。",
+          "href": "/combat/bakudo-boss-fight",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "アリア — ステラ・エイト最上位のライバルであり、最終的な技能の壁。"
+            },
+            {
+              "label": "A",
+              "detail": "フラッシュ — Sランク報酬を伴う高難度チャレンジボス。"
+            },
+            {
+              "label": "B",
+              "detail": "CADE — よりクリーンなクリアを測るための体験版基準ボス。"
+            },
+            {
+              "label": "C",
+              "detail": "ステラ・エイト — それぞれ異なる戦闘スタイルを持つ8人のランク生。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "BAKUDO戦闘メカニクス",
+          "description": "コアボールのラリー、コート上の位置取り、チャンスボールの奥深さ、連打より正確さを評価するグレード制クリアを理解しましょう。",
+          "href": "/mechanics/bakudo-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ラリー",
+              "detail": "各ラリーをサーブ、返球、そして誰かがミスするまで高まるテンポとして捉えましょう。"
+            },
+            {
+              "label": "チャンス",
+              "detail": "ボスのシルエットだけを見ず、ボールの影と軌道を追いましょう。"
+            },
+            {
+              "label": "中央",
+              "detail": "構えの間も攻撃角度と逃げ道を確保するため、コート中央を保ちましょう。"
+            },
+            {
+              "label": "反撃",
+              "detail": "連打せず、予備動作のある攻撃後の復帰フレームに攻撃を当てましょう。"
+            },
+            {
+              "label": "Sランク",
+              "detail": "クリアタイム、受けたダメージ、無駄にした反撃機会が、挑戦間の成長を示します。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "BAKUDOキャラクターガイド",
+          "description": "ユリア、エビー、アリア、そしてステラ・エイトを、10日間の学園挑戦を形作る物語上の役割とライバル関係とともに紹介します。",
+          "href": "/characters/bakudo-character-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ユリア",
+              "detail": "行方不明の父が残した手がかりを探すコアボール科の生徒。"
+            },
+            {
+              "label": "エビー",
+              "detail": "ユリアのパートナーで、10日間の挑戦を通じて支えとなる存在。"
+            },
+            {
+              "label": "アリア",
+              "detail": "学園の最後通牒をユリアに突きつける、ステラ・エイト最上位のライバル。"
+            },
+            {
+              "label": "ライバル",
+              "detail": "ステラ・エイトはそれぞれ異なるスタイルでランク戦に挑んできます。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "BAKUDO操作ガイド",
+          "description": "高度な戦闘テクニックを加える前に、移動、カメラ操作、画面への意識、正確なリセットのための信頼できる入力ルーティンを作りましょう。",
+          "href": "/guide/bakudo-beginner-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "移動",
+              "detail": "カメラ調整や攻撃入力を加える前に、移動の感覚を身につけましょう。"
+            },
+            {
+              "label": "カメラ",
+              "detail": "移動しながら視点を調整する練習を、自然にできるまで繰り返しましょう。"
+            },
+            {
+              "label": "確認",
+              "detail": "自分のキャラクターだけを見ず、状態、脅威、タイマーを確認しましょう。"
+            },
+            {
+              "label": "リセット",
+              "detail": "失敗した攻撃の後は、毎回中立の準備状態に戻りましょう。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "BAKUDO体験版ガイド",
+          "description": "Steamのボスラッシュ体験版に含まれる内容、リアルタイム戦闘の仕組み、初回プレイをより有意義にする習慣を紹介します。",
+          "href": "/modes/bakudo-demo",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "無料体験版",
+              "detail": "BAKUDO公式Steamページからボスラッシュ体験版を試せます。"
+            },
+            {
+              "label": "ロスター",
+              "detail": "完全なステラ・エイトの顔ぶれではなく、厳選された戦闘体験が用意されています。"
+            },
+            {
+              "label": "入力",
+              "detail": "体験版ではXboxコントローラーとPlayStationコントローラーの両方に対応しています。"
+            },
+            {
+              "label": "リプレイ",
+              "detail": "1体のボスを繰り返し挑み、パターン認識をより速くクリーンなクリアにつなげましょう。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "BAKUDO発売日とプラットフォーム",
+          "description": "BAKUDOの2027年発売時期、SteamとNintendo Switch 2の展開、シングルプレイヤー構成、8言語対応を追いましょう。",
+          "href": "/release/bakudo-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "2027",
+              "detail": "BAKUDOは2027年の発売を予定しています。"
+            },
+            {
+              "label": "Steam",
+              "detail": "BAKUDOのSteamページは公開中で、ウィッシュリスト登録を受け付けています。"
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Nintendo Switch 2版は2026年10月の発表で確認されました。"
+            },
+            {
+              "label": "1人プレイ",
+              "detail": "公式情報では、BAKUDOはシングルプレイヤー体験として紹介されています。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "BAKUDOニュースと更新情報",
+          "description": "BAKUDOの公式トレーラー、Switch 2発表、プレイ可能な体験版、キャラクター発表を、確認済みの発売情報とともに追いましょう。",
+          "href": "/release/bakudo-official-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "トレーラー",
+              "detail": "BAKUDOの公式発表トレーラーで、作品の雰囲気と戦闘を確認しましょう。"
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Indie Worldの発表でNintendo Switch 2版が確認されました。"
+            },
+            {
+              "label": "体験版",
+              "detail": "Steamではプレイ可能なBAKUDOボスラッシュ体験版が配信されています。"
+            },
+            {
+              "label": "キャスト",
+              "detail": "最新のキャラクタープロフィールではユリア、エビー、アリアが中心です。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "BAKUDOについてよく寄せられる質問への回答です。",
+      "items": [
+        {
+          "question": "BAKUDOとは？",
+          "answer": "BAKUDOは、開発元SAYIL GAMES、発売元SHUEISHA GAMESによるSF学園球技ボスラッシュアクションゲームです。ユリアはソリリス学園のコアボール科に入学し、行方不明の父が残した手がかりを探しながら、ゲーム内10日間でステラ・エイトを倒さなければなりません。"
+        },
+        {
+          "question": "BAKUDOはシングルプレイヤーゲームですか？",
+          "answer": "はい。公式情報では、BAKUDOは1人プレイのシングルプレイヤー体験として紹介されており、物語主導の学園キャンペーンとランク付きボスラッシュの階層を中心に構成されています。"
+        },
+        {
+          "question": "BAKUDOの発売日はいつですか？",
+          "answer": "BAKUDOは2027年発売予定です。SHUEISHA GAMESは発売時期を確認していますが、具体的な月日はまだ発表していません。"
+        },
+        {
+          "question": "BAKUDOはどのプラットフォームで発売されますか？",
+          "answer": "BAKUDOはSteamとNintendo Switch 2での発売が確認されています。Switch 2版は2026年10月28日のIndie Worldで発表されました。"
+        },
+        {
+          "question": "BAKUDOの戦闘はどのように進みますか？",
+          "answer": "BAKUDOの戦闘はコアボールのラリーを中心に展開します。位置取り、返球タイミング、チャンスボールの読み、予備動作後の反撃が連打より重要で、クリアはグレード評価され、Sランクが最高基準です。"
+        },
+        {
+          "question": "BAKUDOの体験版はどこで遊べますか？",
+          "answer": "BAKUDOボスラッシュ体験版は公式Steamページから入手できます。XboxとPlayStationのコントローラーに対応しており、1体のボスを繰り返すのがパターン習得への最短ルートです。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "BAKUDOを極める準備はできましたか？",
+      "description": "最初の学園戦から高強度のボス戦まで、コミュニティWikiがキャラクター、戦闘メカニクス、プラットフォーム、発売情報を網羅します。",
+      "primary": "BAKUDO攻略を見る",
+      "secondary": "SteamでBAKUDOを見る"
+    }
+  },
+  "guide": {
+    "overviewTitle": "BAKUDO攻略ガイド",
+    "overviewDescription": "初心者向けウォークスルー、体験版ルート、トレーナー戦略、BAKUDOの各段階に役立つ実践的なヒントから始めましょう。"
+  },
+  "modes": {
+    "overviewTitle": "BAKUDOゲームモード",
+    "overviewDescription": "体験版、製品版の構成、ボスラッシュ、学園ステージ、ボス戦モードを比較します。"
+  },
+  "combat": {
+    "overviewTitle": "BAKUDO戦闘ガイド",
+    "overviewDescription": "ドッジボール戦闘、Cadeのボスパターン、ノーヒットクリア、Sランクルートを学びましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "BAKUDOメカニクス",
+    "overviewDescription": "BAKUDOの操作、コアボールのゲームプレイ、ドッジボールのルール、リプレイ性の仕組みを理解しましょう。"
+  },
+  "characters": {
+    "overviewTitle": "BAKUDOキャラクター",
+    "overviewDescription": "Cade、ユリア、そして幅広いキャストを紹介し、役割、能力、キャラクター戦略を比較します。"
+  },
+  "release": {
+    "overviewTitle": "BAKUDO発売情報とプラットフォーム",
+    "overviewDescription": "BAKUDOの発売情報、SteamとNintendo Switch 2での展開、トレーラー、公式更新情報を追いましょう。"
+  },
+  "codes": {
+    "overviewTitle": "BAKUDOコード",
+    "overviewDescription": "最新のBAKUDOコード、引き換え手順、有効な報酬情報を確認しましょう。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連攻略",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだ攻略記事がありません。近日公開予定です。"
+  },
+  "footer": {
+    "aboutTitle": "BAKUDO攻略ガイド",
+    "about": "BAKUDO攻略ガイドは、キャラクター、球技ボス戦、戦闘メカニクス、学園ストーリー、プラットフォーム、発売情報を扱う独立したファン制作の攻略ハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "攻略",
+    "legal": "法務",
+    "copyright": "© 2026 BAKUDO攻略ガイド。SAYIL GAMESおよびSHUEISHA GAMESとは提携していません。",
+    "description": "SAYIL GAMESとSHUEISHA GAMESによるSF学園ボスラッシュアクションゲーム。2027年にSteamとNintendo Switch 2で発売予定。",
+    "playGame": "SteamでBAKUDOを見る",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "BAKUDO公式YouTube",
+    "officialX": "XのSHUEISHA GAMES",
+    "vvBuilder": "BAKUDO公式サイト",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "キャラクター攻略",
+    "bossGuides": "戦闘攻略",
+    "buildGuide": "メカニクス攻略",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

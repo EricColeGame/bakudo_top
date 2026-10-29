@@ -1,1 +1,463 @@
-{}
+{
+  "site": {
+    "name": "Guía de BAKUDO",
+    "shortName": "BAKUDO",
+    "tagline": "Guías de boss rush escolar de ciencia ficción, personajes y novedades de lanzamiento",
+    "description": "Explora BAKUDO con perfiles de personajes, guías de jefes, mecánicas de combate, detalles de la historia, tráileres, novedades de plataformas y actualizaciones de lanzamiento para PC y Nintendo Switch 2.",
+    "legalNotice": "Wiki de fans no oficial. No está afiliada a SAYIL GAMES ni a SHUEISHA GAMES."
+  },
+  "nav": {
+    "guide": "Guía",
+    "modes": "Modos",
+    "combat": "Combate",
+    "mechanics": "Mecánicas",
+    "characters": "Personajes",
+    "release": "Lanzamiento",
+    "codes": "Códigos"
+  },
+  "home": {
+    "meta": {
+      "title": "Guía de BAKUDO — Jefes, personajes y guías",
+      "description": "Explora BAKUDO con perfiles de personajes, guías de jefes, mecánicas de combate, detalles de la historia, tráileres, novedades de plataformas y actualizaciones de lanzamiento para PC y Nintendo Switch 2."
+    },
+    "hero": {
+      "eyebrow": "Acción boss rush escolar de ciencia ficción",
+      "title": "Guía de BAKUDO",
+      "description": "Explora BAKUDO, un juego de acción escolar de ciencia ficción con intensos combates de jefes de deporte de balón. Descubre perfiles de personajes, mecánicas de combate, estrategias contra jefes, detalles de la historia, novedades de plataformas y actualizaciones de lanzamiento.",
+      "stats": [
+        "Lanzamiento en 2027",
+        "2 plataformas",
+        "1 jugador",
+        "8 idiomas compatibles"
+      ],
+      "primaryCta": "Ver en Steam",
+      "secondaryCta": "Sitio web oficial",
+      "tertiaryCta": "Ver tráiler oficial",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por BAKUDO",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende movimiento, control de cámara, lectura de pantalla y los hábitos de práctica que hacen más productiva cada sesión de BAKUDO."
+        },
+        {
+          "number": "2",
+          "title": "Fundamentos del combate",
+          "description": "Comprende los intercambios de Coreball, el momento del retorno, la posición en la pista y las ventanas de recuperación que convierten la defensa en daño."
+        },
+        {
+          "number": "3",
+          "title": "Guía de combates contra jefes",
+          "description": "Prepárate para los Stellar Eight con rutinas de lectura de patrones, ejercicios de ventanas de castigo y planes limpios para la carrera de diez días."
+        },
+        {
+          "number": "4",
+          "title": "Mecánicas de Coreball",
+          "description": "Lee las bolas de oportunidad por sus sombras y trayectorias, mantén el centro de la pista y avanza hacia clears de rango S más limpios."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias actuales",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Combates contra jefes",
+        "Guía de personajes",
+        "Fecha de lanzamiento"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes de BAKUDO",
+          "description": "Construye entradas precisas, conciencia de pantalla y una rutina de práctica repetible antes de buscar técnicas avanzadas.",
+          "href": "/guide/bakudo-beginner-guide"
+        },
+        {
+          "badge": "Combate",
+          "title": "Guía de combates contra jefes de BAKUDO",
+          "description": "Lee las señales de los Stellar Eight, prepara cada intento y convierte las ventanas de recuperación en castigos limpios.",
+          "href": "/combat/bakudo-boss-fight"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Mecánicas de combate de BAKUDO",
+          "description": "Aprende cómo encajan los intercambios de Coreball, las bolas de oportunidad, la posición en la pista y los clears clasificados.",
+          "href": "/mechanics/bakudo-gameplay"
+        },
+        {
+          "badge": "Reparto",
+          "title": "Guía de personajes de BAKUDO",
+          "description": "Conoce a Yuria, Evie, Aria y los Stellar Eight detrás de la historia de la Academia Soliris.",
+          "href": "/characters/bakudo-character-guide"
+        },
+        {
+          "badge": "Demo",
+          "title": "Guía de la demo de BAKUDO",
+          "description": "Descubre qué incluye la Boss Rush Demo de Steam y cómo aprovechar mejor cada repetición.",
+          "href": "/modes/bakudo-demo"
+        },
+        {
+          "badge": "2027",
+          "title": "Fecha de lanzamiento de BAKUDO",
+          "description": "Sigue la ventana confirmada de 2027, los planes para Steam y Nintendo Switch 2 y la última revelación oficial.",
+          "href": "/release/bakudo-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es BAKUDO?",
+      "paragraphs": [
+        "BAKUDO es un juego de acción boss rush de deporte de balón y escuela de ciencia ficción desarrollado por SAYIL GAMES y publicado por SHUEISHA GAMES. En la Academia Soliris, Yuria tiene diez días dentro del juego para derrotar a los Stellar Eight, los estudiantes mejor clasificados de la escuela, mientras busca la pista que dejó su padre desaparecido.",
+        "El combate convierte el movimiento del balón en ataque: la posición, el momento del retorno y la lectura de la trayectoria importan tanto como los reflejos. BAKUDO está previsto para Steam y Nintendo Switch 2 en 2027, con una campaña para un jugador y compatibilidad con ocho idiomas."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "SAYIL GAMES"
+        },
+        {
+          "label": "Editorial",
+          "value": "SHUEISHA GAMES"
+        },
+        {
+          "label": "Plataformas",
+          "value": "Steam · Switch 2"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "2027"
+        },
+        {
+          "label": "Jugadores",
+          "value": "1"
+        },
+        {
+          "label": "Idiomas",
+          "value": "8"
+        }
+      ],
+      "cta": "Explorar guías de BAKUDO"
+    },
+    "explore": {
+      "title": "Explora la guía de BAKUDO",
+      "description": "Consulta guías de BAKUDO sobre fundamentos para principiantes, combates contra los Stellar Eight, mecánicas de Coreball, personajes, controles, la demo, plataformas y novedades oficiales.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de BAKUDO",
+          "description": "Aprende los fundamentos de BAKUDO, desde el movimiento preciso y la lectura de pantalla hasta bucles cortos de práctica que crean hábitos fiables antes de los combates clasificados contra jefes.",
+          "href": "/guide/bakudo-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Empieza con el movimiento y el control de cámara, manteniendo cada acción fluida y deliberada."
+            },
+            {
+              "label": "2",
+              "detail": "Lee la arena para conocer tu estado, las amenazas cercanas y los temporizadores o indicadores visibles."
+            },
+            {
+              "label": "3",
+              "detail": "Practica una secuencia fiable hasta que se convierta en un recurso automático bajo presión."
+            },
+            {
+              "label": "4",
+              "detail": "Vuelve a un estado neutral y preparado tras los errores y revisa cada intento breve de práctica."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de combates contra jefes de BAKUDO",
+          "description": "Estudia la escala clasificada de los Stellar Eight, lee las señales de cada oponente y convierte las ventanas de recuperación en oportunidades limpias de castigo.",
+          "href": "/combat/bakudo-boss-fight",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Aria — rival de máximo rango de los Stellar Eight y techo final de habilidad."
+            },
+            {
+              "label": "A",
+              "detail": "Flash — jefe de desafío de alta dificultad con recompensa de rango S."
+            },
+            {
+              "label": "B",
+              "detail": "CADE — jefe de referencia de la demo para medir clears más limpios."
+            },
+            {
+              "label": "C",
+              "detail": "Stellar Eight — ocho estudiantes clasificados, cada uno con un estilo de combate distinto."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Mecánicas de combate de BAKUDO",
+          "description": "Comprende los intercambios de Coreball, la posición en la pista, la profundidad de las bolas de oportunidad y el sistema de clears clasificados que premia la precisión por encima del botón machacado.",
+          "href": "/mechanics/bakudo-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Intercambio",
+              "detail": "Trata cada intercambio como un saque, un retorno y un tempo creciente hasta que alguien falla."
+            },
+            {
+              "label": "Oportunidad",
+              "detail": "Sigue la sombra y la trayectoria del balón en lugar de mirar solo la silueta del jefe."
+            },
+            {
+              "label": "Centro",
+              "detail": "Mantén el centro de la pista para conservar ángulos de ataque y una vía de escape durante las preparaciones."
+            },
+            {
+              "label": "Castigo",
+              "detail": "Golpea durante los fotogramas de recuperación tras un ataque telegrafiado en vez de machacar botones."
+            },
+            {
+              "label": "Rango S",
+              "detail": "El tiempo de clear, el daño recibido y las ventanas de castigo desperdiciadas revelan el progreso entre intentos."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de personajes de BAKUDO",
+          "description": "Conoce a Yuria, Evie, Aria y los Stellar Eight, con los roles narrativos y las rivalidades que enmarcan el desafío de diez días en la academia.",
+          "href": "/characters/bakudo-character-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Yuria",
+              "detail": "Estudiante de Coreball que busca la pista que dejó su padre desaparecido."
+            },
+            {
+              "label": "Evie",
+              "detail": "Compañera de Yuria y presencia estabilizadora durante el desafío de diez días."
+            },
+            {
+              "label": "Aria",
+              "detail": "Rival de máximo rango de los Stellar Eight que plantea a Yuria el ultimátum de la academia."
+            },
+            {
+              "label": "Rivales",
+              "detail": "Cada miembro de los Stellar Eight aporta un estilo distinto a la escala clasificada."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de controles de BAKUDO",
+          "description": "Crea una rutina de entrada fiable para movimiento, cámara, conciencia de pantalla y reinicios limpios antes de añadir técnicas de combate avanzadas.",
+          "href": "/guide/bakudo-beginner-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Movimiento",
+              "detail": "Coge comodidad con el movimiento antes de añadir ajustes de cámara o entradas de ataque."
+            },
+            {
+              "label": "Cámara",
+              "detail": "Practica moverte y ajustar la vista al mismo tiempo hasta que resulte automático."
+            },
+            {
+              "label": "Lectura",
+              "detail": "Revisa tu estado, las amenazas y los temporizadores en lugar de mirar solo a tu personaje."
+            },
+            {
+              "label": "Reinicio",
+              "detail": "Vuelve a un estado neutral y preparado después de cada intercambio fallido."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de la demo de BAKUDO",
+          "description": "Descubre qué incluye la Boss Rush Demo de Steam, cómo funcionan sus combates en tiempo real y qué hábitos hacen más productiva la primera sesión.",
+          "href": "/modes/bakudo-demo",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Demo gratuita",
+              "detail": "Prueba la Boss Rush Demo desde la página oficial de BAKUDO en Steam."
+            },
+            {
+              "label": "Plantilla",
+              "detail": "Espera una selección de combate cuidada, no la plantilla completa de los Stellar Eight."
+            },
+            {
+              "label": "Entrada",
+              "detail": "La demo es compatible con mandos de Xbox y PlayStation."
+            },
+            {
+              "label": "Repetición",
+              "detail": "Repite un jefe para convertir el reconocimiento de patrones en clears más rápidos y limpios."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Fecha de lanzamiento y plataformas de BAKUDO",
+          "description": "Sigue la ventana de lanzamiento de BAKUDO en 2027, los planes para Steam y Nintendo Switch 2, la estructura para un jugador y los ocho idiomas compatibles.",
+          "href": "/release/bakudo-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "2027",
+              "detail": "BAKUDO está previsto para una ventana de lanzamiento en 2027."
+            },
+            {
+              "label": "Steam",
+              "detail": "La página de BAKUDO en Steam ya está disponible para añadir a la lista de deseos."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Nintendo Switch 2 se confirmó en la revelación de octubre de 2026."
+            },
+            {
+              "label": "1 jugador",
+              "detail": "Los materiales oficiales describen BAKUDO como una experiencia para un jugador."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Noticias y novedades de BAKUDO",
+          "description": "Sigue el tráiler oficial de BAKUDO, la revelación de Switch 2, la demo jugable y los anuncios de personajes mediante actualizaciones de lanzamiento verificadas.",
+          "href": "/release/bakudo-official-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tráiler",
+              "detail": "Mira el tráiler oficial de anuncio de BAKUDO para conocer su tono y su combate."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "La revelación de Indie World confirmó la versión para Nintendo Switch 2."
+            },
+            {
+              "label": "Demo",
+              "detail": "Steam aloja la BAKUDO Boss Rush Demo jugable."
+            },
+            {
+              "label": "Reparto",
+              "detail": "Yuria, Evie y Aria protagonizan los últimos perfiles de personajes."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre BAKUDO.",
+      "items": [
+        {
+          "question": "¿Qué es BAKUDO?",
+          "answer": "BAKUDO es un juego de acción boss rush de deporte de balón y escuela de ciencia ficción del desarrollador SAYIL GAMES y la editorial SHUEISHA GAMES. Yuria entra en el Departamento de Coreball de la Academia Soliris y debe derrotar a los Stellar Eight en diez días dentro del juego mientras busca una pista dejada por su padre desaparecido."
+        },
+        {
+          "question": "¿BAKUDO es un juego para un jugador?",
+          "answer": "Sí. Los materiales oficiales describen BAKUDO como una experiencia para un jugador, construida en torno a una campaña académica impulsada por la historia y una escala de boss rush clasificada."
+        },
+        {
+          "question": "¿Cuándo sale BAKUDO?",
+          "answer": "BAKUDO está previsto para 2027. SHUEISHA GAMES ha confirmado la ventana de lanzamiento, pero no ha anunciado un mes o día concretos."
+        },
+        {
+          "question": "¿En qué plataformas se lanzará BAKUDO?",
+          "answer": "BAKUDO está confirmado para Steam y Nintendo Switch 2. La versión de Switch 2 se reveló durante Indie World el 28 de octubre de 2026."
+        },
+        {
+          "question": "¿Cómo funciona el combate de BAKUDO?",
+          "answer": "El combate de BAKUDO gira en torno a los intercambios de Coreball. La posición, el momento del retorno, la lectura de las bolas de oportunidad y los castigos tras ataques telegrafiados importan más que machacar botones; los clears se clasifican y el rango S es el máximo referente."
+        },
+        {
+          "question": "¿Dónde puedo probar la demo de BAKUDO?",
+          "answer": "La BAKUDO Boss Rush Demo está disponible en la página oficial de Steam. Es compatible con mandos de Xbox y PlayStation, y repetir un jefe es la forma más rápida de aprender su patrón."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar BAKUDO?",
+      "description": "Desde tus primeros combates en la academia hasta encuentros de jefes de alta intensidad, nuestra wiki comunitaria cubre personajes, mecánicas de combate, plataformas y novedades de lanzamiento.",
+      "primary": "Explorar guías de BAKUDO",
+      "secondary": "Ver BAKUDO en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de BAKUDO",
+    "overviewDescription": "Empieza con recorridos para principiantes, rutas de la demo, estrategias contra entrenadores y consejos prácticos para cada etapa de BAKUDO."
+  },
+  "modes": {
+    "overviewTitle": "Modos de juego de BAKUDO",
+    "overviewDescription": "Compara la demo, la estructura del juego completo, Boss Rush, las etapas escolares y los modos de combate contra jefes disponibles en BAKUDO."
+  },
+  "combat": {
+    "overviewTitle": "Guías de combate de BAKUDO",
+    "overviewDescription": "Aprende el combate de dodgeball, los patrones del jefe Cade, los clears sin daño y las rutas de rango S para BAKUDO."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de BAKUDO",
+    "overviewDescription": "Comprende los controles, la jugabilidad de Coreball, las reglas de dodgeball y los sistemas de rejugabilidad de BAKUDO."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de BAKUDO",
+    "overviewDescription": "Conoce a Cade, Yuria y al resto del reparto, y compara roles, habilidades y estrategias de personajes en BAKUDO."
+  },
+  "release": {
+    "overviewTitle": "Lanzamiento y plataformas de BAKUDO",
+    "overviewDescription": "Sigue los detalles de lanzamiento de BAKUDO, su disponibilidad en Steam y Nintendo Switch 2, los tráileres y las novedades oficiales."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de BAKUDO",
+    "overviewDescription": "Consulta los últimos códigos de BAKUDO, los pasos de canje y las novedades de recompensas activas."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Guía de BAKUDO",
+    "about": "La Guía de BAKUDO es un centro independiente creado por fans que cubre personajes, combates de jefes de deporte de balón, mecánicas de combate, detalles de la historia de la academia, plataformas y novedades de lanzamiento.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "© 2026 Guía de BAKUDO. No está afiliada a SAYIL GAMES ni a SHUEISHA GAMES.",
+    "description": "Juego de acción boss rush escolar de ciencia ficción de SAYIL GAMES y SHUEISHA GAMES. Llegará en 2027 a Steam y Nintendo Switch 2.",
+    "playGame": "Ver BAKUDO en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial de BAKUDO",
+    "officialX": "SHUEISHA GAMES en X",
+    "vvBuilder": "Sitio web oficial de BAKUDO",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de personajes",
+    "bossGuides": "Guías de combate",
+    "buildGuide": "Guía de mecánicas",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}

@@ -1,1 +1,463 @@
-{}
+{
+  "site": {
+    "name": "BAKUDO 공략 가이드",
+    "shortName": "BAKUDO",
+    "tagline": "SF 학교 보스 러시 공략, 캐릭터 및 출시 업데이트",
+    "description": "BAKUDO의 캐릭터 프로필, 보스 공략, 전투 메커니즘, 스토리, 트레일러, 플랫폼 소식, PC 및 Nintendo Switch 2 출시 정보를 확인하세요.",
+    "legalNotice": "비공식 팬 위키입니다. SAYIL GAMES 또는 SHUEISHA GAMES와 제휴하지 않았습니다."
+  },
+  "nav": {
+    "guide": "가이드",
+    "modes": "모드",
+    "combat": "전투",
+    "mechanics": "메커니즘",
+    "characters": "캐릭터",
+    "release": "출시",
+    "codes": "코드"
+  },
+  "home": {
+    "meta": {
+      "title": "BAKUDO 공략 가이드 — 보스전, 캐릭터 및 공략",
+      "description": "BAKUDO의 캐릭터 프로필, 보스 공략, 전투 메커니즘, 스토리, 트레일러, 플랫폼 소식, PC 및 Nintendo Switch 2 출시 정보를 확인하세요."
+    },
+    "hero": {
+      "eyebrow": "SF 학교 보스 러시 액션",
+      "title": "BAKUDO 공략 가이드",
+      "description": "강렬한 볼 스포츠 보스전이 특징인 SF 학교 액션 게임 BAKUDO를 살펴보세요. 캐릭터 프로필, 전투 메커니즘, 보스 전략, 스토리, 플랫폼 소식, 출시 정보를 제공합니다.",
+      "stats": [
+        "2027년 출시 예정",
+        "2개 플랫폼",
+        "1인 플레이",
+        "8개 언어 지원"
+      ],
+      "primaryCta": "Steam에서 보기",
+      "secondaryCta": "공식 웹사이트",
+      "tertiaryCta": "공식 트레일러 보기",
+      "videoLabel": "공식 트레일러"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 공략 보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하세요",
+      "title": "BAKUDO 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "이동, 카메라 조작, 화면 읽기, 그리고 모든 BAKUDO 플레이를 더 생산적으로 만드는 연습 습관을 배우세요."
+        },
+        {
+          "number": "2",
+          "title": "전투 기본",
+          "description": "코어볼 랠리, 리턴 타이밍, 코트 위치 선정, 수비를 공격으로 바꾸는 회복 구간을 이해하세요."
+        },
+        {
+          "number": "3",
+          "title": "보스전 가이드",
+          "description": "패턴 읽기 루틴, 반격 기회 훈련, 깔끔한 10일 런 계획으로 스텔라 에이트를 준비하세요."
+        },
+        {
+          "number": "4",
+          "title": "코어볼 메커니즘",
+          "description": "그림자와 궤적으로 찬스 볼을 읽고, 코트 중앙을 지키며 더 깔끔한 S랭크 클리어를 노리세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "지금 인기 있는 콘텐츠",
+      "quickLinks": [
+        "초보자 가이드",
+        "보스전",
+        "캐릭터 가이드",
+        "출시일"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "BAKUDO 초보자 가이드",
+          "description": "고급 기술을 추구하기 전에 정확한 입력, 화면 인식, 반복 가능한 연습 루틴을 만드세요.",
+          "href": "/guide/bakudo-beginner-guide"
+        },
+        {
+          "badge": "전투",
+          "title": "BAKUDO 보스전 가이드",
+          "description": "스텔라 에이트의 예비 동작을 읽고, 각 시도를 준비하며, 회복 구간을 확실한 반격으로 바꾸세요.",
+          "href": "/combat/bakudo-boss-fight"
+        },
+        {
+          "badge": "메커니즘",
+          "title": "BAKUDO 전투 메커니즘",
+          "description": "코어볼 랠리, 찬스 볼, 코트 위치 선정, 랭크 클리어가 어떻게 연결되는지 배우세요.",
+          "href": "/mechanics/bakudo-gameplay"
+        },
+        {
+          "badge": "캐스트",
+          "title": "BAKUDO 캐릭터 가이드",
+          "description": "솔리리스 아카데미 이야기의 유리아, 에비, 아리아, 스텔라 에이트를 만나보세요.",
+          "href": "/characters/bakudo-character-guide"
+        },
+        {
+          "badge": "데모",
+          "title": "BAKUDO 데모 가이드",
+          "description": "Steam 보스 러시 데모의 내용과 각 리플레이를 더 알차게 즐기는 방법을 확인하세요.",
+          "href": "/modes/bakudo-demo"
+        },
+        {
+          "badge": "2027",
+          "title": "BAKUDO 출시일",
+          "description": "확정된 2027년 출시 시기, Steam 및 Nintendo Switch 2 계획, 최신 공식 발표를 확인하세요.",
+          "href": "/release/bakudo-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "BAKUDO란?",
+      "paragraphs": [
+        "BAKUDO는 SAYIL GAMES가 개발하고 SHUEISHA GAMES가 퍼블리싱하는 SF 학교 볼 스포츠 보스 러시 액션 게임입니다. 솔리리스 아카데미에서 유리아는 게임 내 10일 안에 학교 최상위 학생들인 스텔라 에이트를 쓰러뜨리고, 실종된 아버지가 남긴 단서를 찾아야 합니다.",
+        "전투에서는 공의 움직임이 공격이 됩니다. 위치 선정, 리턴 타이밍, 공의 궤도를 읽는 능력은 반사 신경만큼 중요합니다. BAKUDO는 2027년 Steam과 Nintendo Switch 2로 출시될 예정이며, 싱글 플레이어 캠페인과 8개 언어 지원을 제공합니다."
+      ],
+      "stats": [
+        {
+          "label": "개발",
+          "value": "SAYIL GAMES"
+        },
+        {
+          "label": "퍼블리셔",
+          "value": "SHUEISHA GAMES"
+        },
+        {
+          "label": "플랫폼",
+          "value": "Steam · Switch 2"
+        },
+        {
+          "label": "출시",
+          "value": "2027"
+        },
+        {
+          "label": "플레이어",
+          "value": "1"
+        },
+        {
+          "label": "언어",
+          "value": "8"
+        }
+      ],
+      "cta": "BAKUDO 공략 살펴보기"
+    },
+    "explore": {
+      "title": "BAKUDO 공략 가이드 둘러보기",
+      "description": "초보자 기본기, 스텔라 에이트 보스전, 코어볼 메커니즘, 캐릭터, 조작, 데모, 플랫폼, 공식 업데이트를 다루는 BAKUDO 공략을 둘러보세요.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "BAKUDO 초보자 가이드",
+          "description": "정확한 이동과 화면 읽기부터 랭크 보스전 전에 신뢰할 수 있는 습관을 만드는 짧은 연습 루프까지 BAKUDO의 기본기를 배우세요.",
+          "href": "/guide/bakudo-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "이동과 카메라 조작부터 시작해 모든 행동을 부드럽고 의도적으로 수행하세요."
+            },
+            {
+              "label": "2",
+              "detail": "자신의 상태, 주변 위협, 표시되는 타이머나 지표를 확인하며 아레나를 읽으세요."
+            },
+            {
+              "label": "3",
+              "detail": "신뢰할 수 있는 하나의 연속 동작을 압박 상황에서도 자동으로 쓸 수 있을 때까지 연습하세요."
+            },
+            {
+              "label": "4",
+              "detail": "실수 후에는 중립의 준비 상태로 돌아가고, 짧은 연습 시도를 복기하세요."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "BAKUDO 보스전 가이드",
+          "description": "스텔라 에이트의 랭크 사다리를 공부하고, 각 상대의 예비 동작을 읽으며, 회복 구간을 확실한 반격 기회로 바꾸세요.",
+          "href": "/combat/bakudo-boss-fight",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "아리아 — 스텔라 에이트 최상위 라이벌이자 최종 실력의 한계."
+            },
+            {
+              "label": "A",
+              "detail": "플래시 — S랭크 보상이 걸린 고난도 도전 보스."
+            },
+            {
+              "label": "B",
+              "detail": "케이드 — 더 깔끔한 클리어를 측정하는 데모 기준 보스."
+            },
+            {
+              "label": "C",
+              "detail": "스텔라 에이트 — 각기 다른 전투 스타일을 지닌 8명의 랭크 학생."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "BAKUDO 전투 메커니즘",
+          "description": "코어볼 랠리, 코트 위치 선정, 찬스 볼의 깊이, 버튼 연타보다 정확성을 보상하는 등급 클리어 시스템을 이해하세요.",
+          "href": "/mechanics/bakudo-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "랠리",
+              "detail": "각 주고받기를 서브, 리턴, 누군가 놓칠 때까지 고조되는 템포로 생각하세요."
+            },
+            {
+              "label": "찬스",
+              "detail": "보스의 실루엣만 보지 말고 공의 그림자와 궤적을 추적하세요."
+            },
+            {
+              "label": "중앙",
+              "detail": "예비 동작 중에도 공격 각도와 탈출 경로를 유지하도록 코트 중앙을 지키세요."
+            },
+            {
+              "label": "반격",
+              "detail": "연타 대신 예비 동작이 있는 공격 후 회복 프레임에 타격하세요."
+            },
+            {
+              "label": "S랭크",
+              "detail": "클리어 시간, 받은 피해, 낭비한 반격 기회가 시도 사이의 성장을 보여줍니다."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "BAKUDO 캐릭터 가이드",
+          "description": "유리아, 에비, 아리아, 스텔라 에이트를 10일간의 아카데미 도전을 구성하는 이야기 역할과 라이벌 관계와 함께 만나보세요.",
+          "href": "/characters/bakudo-character-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "유리아",
+              "detail": "실종된 아버지가 남긴 단서를 찾는 코어볼 학생."
+            },
+            {
+              "label": "에비",
+              "detail": "유리아의 파트너이자 10일간의 도전을 함께 버티게 하는 존재."
+            },
+            {
+              "label": "아리아",
+              "detail": "유리아에게 아카데미 최후통첩을 내리는 스텔라 에이트 최상위 라이벌."
+            },
+            {
+              "label": "라이벌",
+              "detail": "스텔라 에이트는 각기 다른 스타일로 랭크 사다리에 도전합니다."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "BAKUDO 조작 가이드",
+          "description": "고급 전투 기술을 더하기 전에 이동, 카메라 조작, 화면 인식, 깔끔한 리셋을 위한 신뢰할 수 있는 입력 루틴을 만드세요.",
+          "href": "/guide/bakudo-beginner-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "이동",
+              "detail": "카메라 조정이나 공격 입력을 추가하기 전에 이동에 익숙해지세요."
+            },
+            {
+              "label": "카메라",
+              "detail": "이동과 시점 조정을 동시에 하는 연습을 자연스러워질 때까지 반복하세요."
+            },
+            {
+              "label": "확인",
+              "detail": "내 캐릭터만 보지 말고 상태, 위협, 타이머를 확인하세요."
+            },
+            {
+              "label": "리셋",
+              "detail": "실패한 주고받기 후에는 매번 중립의 준비 상태로 돌아가세요."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "BAKUDO 데모 가이드",
+          "description": "Steam 보스 러시 데모에 포함된 내용, 실시간 전투 방식, 첫 플레이를 더 알차게 만드는 습관을 확인하세요.",
+          "href": "/modes/bakudo-demo",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "무료 데모",
+              "detail": "BAKUDO 공식 Steam 페이지에서 보스 러시 데모를 체험하세요."
+            },
+            {
+              "label": "로스터",
+              "detail": "전체 스텔라 에이트 명단이 아니라 엄선된 전투 체험을 기대하세요."
+            },
+            {
+              "label": "입력",
+              "detail": "데모에서는 Xbox 및 PlayStation 컨트롤러를 모두 지원합니다."
+            },
+            {
+              "label": "리플레이",
+              "detail": "보스 하나를 반복해 패턴 인식을 더 빠르고 깔끔한 클리어로 연결하세요."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "BAKUDO 출시일 및 플랫폼",
+          "description": "BAKUDO의 2027년 출시 시기, Steam 및 Nintendo Switch 2 출시 계획, 싱글 플레이어 구성, 8개 언어 지원을 확인하세요.",
+          "href": "/release/bakudo-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "2027",
+              "detail": "BAKUDO는 2027년 출시를 목표로 합니다."
+            },
+            {
+              "label": "Steam",
+              "detail": "BAKUDO Steam 페이지가 공개되어 위시리스트 등록이 가능합니다."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Nintendo Switch 2 버전은 2026년 10월 공개에서 확인되었습니다."
+            },
+            {
+              "label": "1인 플레이",
+              "detail": "공식 자료는 BAKUDO를 싱글 플레이어 경험으로 소개합니다."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "BAKUDO 뉴스 및 업데이트",
+          "description": "BAKUDO의 공식 트레일러, Switch 2 공개, 플레이 가능한 데모, 캐릭터 발표를 확인된 출시 업데이트와 함께 따라가세요.",
+          "href": "/release/bakudo-official-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "트레일러",
+              "detail": "공식 BAKUDO 발표 트레일러에서 게임의 분위기와 전투를 확인하세요."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Indie World 공개에서 Nintendo Switch 2 버전이 확인되었습니다."
+            },
+            {
+              "label": "데모",
+              "detail": "Steam에서 플레이 가능한 BAKUDO 보스 러시 데모를 제공합니다."
+            },
+            {
+              "label": "캐스트",
+              "detail": "유리아, 에비, 아리아가 최신 캐릭터 프로필의 중심입니다."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "description": "BAKUDO에 대해 가장 자주 묻는 질문에 대한 빠른 답변입니다.",
+      "items": [
+        {
+          "question": "BAKUDO란 무엇인가요?",
+          "answer": "BAKUDO는 개발사 SAYIL GAMES와 퍼블리셔 SHUEISHA GAMES의 SF 학교 볼 스포츠 보스 러시 액션 게임입니다. 유리아는 솔리리스 아카데미 코어볼 학부에 입학해 실종된 아버지가 남긴 단서를 찾으면서 게임 내 10일 안에 스텔라 에이트를 쓰러뜨려야 합니다."
+        },
+        {
+          "question": "BAKUDO는 싱글 플레이어 게임인가요?",
+          "answer": "네. 공식 자료는 BAKUDO를 1인 플레이 싱글 플레이어 경험으로 소개하며, 스토리 중심의 아카데미 캠페인과 랭크 보스 러시 사다리를 중심으로 구성되어 있습니다."
+        },
+        {
+          "question": "BAKUDO 출시일은 언제인가요?",
+          "answer": "BAKUDO는 2027년 출시 예정입니다. SHUEISHA GAMES가 출시 시기를 확인했지만 구체적인 월이나 날짜는 아직 발표하지 않았습니다."
+        },
+        {
+          "question": "BAKUDO는 어떤 플랫폼으로 출시되나요?",
+          "answer": "BAKUDO는 Steam과 Nintendo Switch 2 출시가 확인되었습니다. Switch 2 버전은 2026년 10월 28일 Indie World에서 공개되었습니다."
+        },
+        {
+          "question": "BAKUDO 전투는 어떻게 진행되나요?",
+          "answer": "BAKUDO 전투는 코어볼 랠리를 중심으로 합니다. 위치 선정, 리턴 타이밍, 찬스 볼 읽기, 예비 동작 후 반격이 연타보다 중요하며, 클리어는 등급으로 평가되고 S랭크가 최고 기준입니다."
+        },
+        {
+          "question": "BAKUDO 데모는 어디서 체험할 수 있나요?",
+          "answer": "BAKUDO 보스 러시 데모는 공식 Steam 페이지에서 이용할 수 있습니다. Xbox 및 PlayStation 컨트롤러를 지원하며, 보스 하나를 반복 플레이하는 것이 패턴을 익히는 가장 빠른 방법입니다."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "BAKUDO를 마스터할 준비가 되셨나요?",
+      "description": "첫 아카데미 전투부터 고강도 보스전까지, 커뮤니티 위키가 캐릭터, 전투 메커니즘, 플랫폼, 출시 업데이트를 다룹니다.",
+      "primary": "BAKUDO 공략 살펴보기",
+      "secondary": "Steam에서 BAKUDO 보기"
+    }
+  },
+  "guide": {
+    "overviewTitle": "BAKUDO 공략",
+    "overviewDescription": "초보자 워크스루, 데모 루트, 트레이너 전략, BAKUDO의 모든 단계에 유용한 실전 팁으로 시작하세요."
+  },
+  "modes": {
+    "overviewTitle": "BAKUDO 게임 모드",
+    "overviewDescription": "데모, 본편 구성, 보스 러시, 학교 스테이지, BAKUDO의 보스전 모드를 비교하세요."
+  },
+  "combat": {
+    "overviewTitle": "BAKUDO 전투 공략",
+    "overviewDescription": "피구 전투, Cade 보스 패턴, 노히트 클리어, BAKUDO의 S랭크 루트를 배우세요."
+  },
+  "mechanics": {
+    "overviewTitle": "BAKUDO 메커니즘",
+    "overviewDescription": "BAKUDO의 조작, 코어볼 게임플레이, 피구 규칙, 리플레이성 시스템을 이해하세요."
+  },
+  "characters": {
+    "overviewTitle": "BAKUDO 캐릭터",
+    "overviewDescription": "Cade, 유리아, 그리고 더 넓은 캐스트를 만나고 역할, 능력, 캐릭터 전략을 비교하세요."
+  },
+  "release": {
+    "overviewTitle": "BAKUDO 출시 및 플랫폼",
+    "overviewDescription": "BAKUDO 출시 정보, Steam 및 Nintendo Switch 2 이용 가능 여부, 트레일러, 공식 업데이트를 확인하세요."
+  },
+  "codes": {
+    "overviewTitle": "BAKUDO 코드",
+    "overviewDescription": "최신 BAKUDO 코드, 사용 방법, 활성 보상 업데이트를 확인하세요."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki 내비게이션",
+    "activeCodes": "활성 코드",
+    "updated": "업데이트",
+    "viewAllCodes": "모든 코드 보기",
+    "playOnRoblox": "Roblox에서 플레이",
+    "inThisSection": "이 섹션",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 읽기",
+    "relatedGuides": "관련 공략",
+    "readMore": "더 읽기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 공략이 없습니다. 곧 다시 확인해 주세요!"
+  },
+  "footer": {
+    "aboutTitle": "BAKUDO 공략 가이드",
+    "about": "BAKUDO 공략 가이드는 캐릭터, 볼 스포츠 보스전, 전투 메커니즘, 아카데미 스토리, 플랫폼, 출시 업데이트를 다루는 독립 팬 제작 공략 허브입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "공략",
+    "legal": "법적 고지",
+    "copyright": "© 2026 BAKUDO 공략 가이드. SAYIL GAMES 또는 SHUEISHA GAMES와 제휴하지 않았습니다.",
+    "description": "SAYIL GAMES와 SHUEISHA GAMES의 SF 학교 보스 러시 액션 게임. 2027년 Steam과 Nintendo Switch 2 출시 예정.",
+    "playGame": "Steam에서 BAKUDO 보기",
+    "officialDiscord": "공식 Discord",
+    "officialYoutube": "BAKUDO 공식 YouTube",
+    "officialX": "X의 SHUEISHA GAMES",
+    "vvBuilder": "BAKUDO 공식 웹사이트",
+    "beginnerGuide": "초보자 가이드",
+    "raceGuides": "캐릭터 공략",
+    "bossGuides": "전투 공략",
+    "buildGuide": "메커니즘 공략",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "이용약관"
+  }
+}
