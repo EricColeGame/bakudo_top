@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "VV: ULTIMATUM",
-    "shortName": "VV Ultimatum",
-    "tagline": "ファンメイド コミュニティ Wiki",
-    "description": "Roblox『VV: ULTIMATUM』の完全攻略Wiki。死神・滅却師・虚の3つの種族を極めるためのガイド、ボス攻略、ビルド最適化、最新コード情報。",
-    "legalNotice": "非公式ファンWiki。プレイヤーによる、プレイヤーのための攻略サイト。"
+    "name": "BAKUDO攻略ガイド",
+    "shortName": "BAKUDO",
+    "tagline": "SF学園ボスラッシュ攻略・キャラクター・最新情報",
+    "description": "『BAKUDO』は、SF学園を舞台にした球技ボスラッシュアクションゲーム。キャラクター、戦闘システム、ボス攻略、ストーリー、対応プラットフォーム、最新情報を紹介します。",
+    "legalNotice": "非公式ファンWikiです。SAYIL GAMESおよびSHUEISHA GAMESとは関係ありません。"
   },
   "nav": {
     "races": "種族",
@@ -21,24 +21,23 @@
   },
   "home": {
     "meta": {
-      "title": "VV: ULTIMATUM — コード・ビルド・ガイド | VV Ultimatum Wiki",
-      "description": "VV: ULTIMATUM の完全攻略Wiki。有効なコード、ボス攻略、種族ガイド、ビルド最適化、死神・滅却師・虚の進行ウォークスルー。"
+      "title": "BAKUDO攻略ガイド — ボス攻略・キャラクター",
+      "description": "BAKUDOのキャラクター、ボス攻略、戦闘システム、ストーリー、トレーラー、対応プラットフォーム、最新情報をPC・Nintendo Switch 2向けに紹介します。"
     },
     "hero": {
-      "eyebrow": "ファンメイド コミュニティ Wiki",
-      "title": "VV: ULTIMATUM",
-      "description": "Roblox『VV: ULTIMATUM』の完全攻略Wiki。死神・滅却師・虚の3つの種族を極めるためのガイド、ボス攻略、ビルド最適化、最新コード情報を網羅。",
+      "eyebrow": "SF学園ボスラッシュアクション",
+      "title": "BAKUDO攻略ガイド",
+      "description": "『BAKUDO』は、SF学園を舞台にした球技ボスラッシュアクションゲーム。キャラクター、戦闘システム、ボス攻略、ストーリー、プラットフォーム、最新情報を掲載しています。",
       "stats": [
-        "6月5日配信",
-        "6月12日更新",
-        "3種族",
-        "Lv100上限",
-        "130+スキル"
+        "2027年発売予定",
+        "2プラットフォーム",
+        "1人プレイ",
+        "8言語対応"
       ],
-      "primaryCta": "初心者ガイドを見る",
-      "secondaryCta": "種族を比較する",
-      "tertiaryCta": "有効なコードを確認",
-      "videoLabel": "公式メディア"
+      "primaryCta": "Steamで見る",
+      "secondaryCta": "公式サイト",
+      "tertiaryCta": "公式トレーラーを見る",
+      "videoLabel": "公式トレーラー"
     },
     "updates": {
       "title": "最新更新",
@@ -47,7 +46,7 @@
     },
     "start": {
       "eyebrow": "ここから始める",
-      "title": "VV Ultimatum の旅立ち",
+      "title": "BAKUDO の旅立ち",
       "cards": [
         {
           "number": "1",
@@ -67,7 +66,7 @@
         {
           "number": "4",
           "title": "抽出方法",
-          "description": "VV Ultimatum で資源を抽出する最適な方法と場所を解説。"
+          "description": "BAKUDO で資源を抽出する最適な方法と場所を解説。"
         }
       ]
     },
@@ -138,50 +137,46 @@
       ]
     },
     "aboutGame": {
-      "title": "VV: ULTIMATUM とは？",
+      "title": "BAKUDOとは？",
       "paragraphs": [
-        "VV: ULTIMATUM は Bleach アニメをモチーフにした Roblox のスタイリッシュ格闘 RPG です。死神・滅却師・虚の3つのプレイアブル種族から選択でき、それぞれ独自の進行システム、解放可能な能力、進化ルートを備えています。130以上のスキルをマスターし、レベル100の上限を目指して戦い抜こう。",
-        "始めての始解の解放、基礎虚からアランカルへの進化、滅却師の副隊長ミッションの周回など、当Wikiは全システムを詳細なガイド、データテーブル、ステップバイステップのウォークスルーで解説しています。"
+        "BAKUDOは、SAYIL GAMESが開発しSHUEISHA GAMESが発売するSF学園球技ボスラッシュアクションゲームです。学園での激しい試合に挑み、相手ごとの攻撃パターンを学び、強力なボスを倒せるチームを組みましょう。",
+        "当Wikiでは、確認済みのキャラクター、戦闘システム、ボス攻略、ストーリー、対応プラットフォーム、最新情報を追跡しています。BAKUDOは2027年にSteamとNintendo Switch 2向けに発売予定で、シングルプレイと8言語に対応します。"
       ],
       "stats": [
         {
-          "label": "開発元",
-          "value": "Midnight Continent"
+          "label": "開発",
+          "value": "SAYIL GAMES"
+        },
+        {
+          "label": "発売",
+          "value": "SHUEISHA GAMES"
         },
         {
           "label": "プラットフォーム",
-          "value": "Roblox"
+          "value": "Steam · Switch 2"
         },
         {
-          "label": "ジャンル",
-          "value": "格闘 RPG"
+          "label": "発売時期",
+          "value": "2027"
         },
         {
-          "label": "訪問数",
-          "value": "12.6M+"
+          "label": "プレイ人数",
+          "value": "1"
         },
         {
-          "label": "お気に入り",
-          "value": "243K+"
-        },
-        {
-          "label": "全スキル数",
-          "value": "130+"
-        },
-        {
-          "label": "レベル上限",
-          "value": "100"
+          "label": "対応言語",
+          "value": "8"
         }
       ],
-      "cta": "全ガイドを見る"
+      "cta": "BAKUDO攻略ガイドを見る"
     },
     "explore": {
-      "title": "VV Ultimatum ホームページモジュールナビゲーション",
+      "title": "BAKUDO ホームページモジュールナビゲーション",
       "description": "8つのホームページセクションから必要な情報にすぐアクセス。",
       "modules": [
         {
           "order": 1,
-          "name": "VV Ultimatum コード",
+          "name": "BAKUDO コード",
           "description": "リロールを消費する前にコードを引き換えて、より柔軟に種族ビルドを試せるようにしましょう。",
           "href": "/codes",
           "displayType": "code-cards",
@@ -195,9 +190,9 @@
         },
         {
           "order": 2,
-          "name": "VV Ultimatum 初心者ガイド",
+          "name": "BAKUDO 初心者ガイド",
           "description": "最初の1時間で種族ルートを決定し、操作を覚え、ランダムなリロールで資源を無駄にせずにクエストを進めよう。",
-          "href": "/guide/vv-ultimatum-beginner-guide-2026",
+          "href": "/guide",
           "displayType": "step-by-step",
           "highlights": [
             {
@@ -228,14 +223,14 @@
         },
         {
           "order": 3,
-          "name": "VV Ultimatum 公式リンク",
+          "name": "BAKUDO 公式リンク",
           "description": "ゲームページ、コミュニティチャンネル、公式動画フィードなど、ブックマークすべき公式リンク先。",
           "href": "/codes",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "🎮",
-              "detail": "Roblox で VV: ULTIMATUM をプレイ"
+              "detail": "Roblox で BAKUDO をプレイ"
             },
             {
               "label": "💬",
@@ -247,11 +242,11 @@
             },
             {
               "label": "🐦",
-              "detail": "X の VV Ultimatum"
+              "detail": "X の BAKUDO"
             },
             {
               "label": "🎵",
-              "detail": "TikTok の VV Ultimatum"
+              "detail": "TikTok の BAKUDO"
             },
             {
               "label": "👥",
@@ -261,7 +256,7 @@
         },
         {
           "order": 4,
-          "name": "VV Ultimatum クラン Tier List",
+          "name": "BAKUDO クラン Tier List",
           "description": "クランリロールは種族ルートを決定づける重要な資源。ベストキープは所属する種族によって異なります。",
           "href": "/tier-list",
           "displayType": "tier-grid",
@@ -286,9 +281,9 @@
         },
         {
           "order": 5,
-          "name": "VV Ultimatum スキルツリー Tier List",
+          "name": "BAKUDO スキルツリー Tier List",
           "description": "ビルドは関連のないルートにポイントを分散させるより、明確な戦闘コアを選ぶ方が強くなります。",
-          "href": "/skills/vv-ultimatum-best-skills-ranked",
+          "href": "/skills",
           "displayType": "tier-grid",
           "highlights": [
             {
@@ -311,7 +306,7 @@
         },
         {
           "order": 6,
-          "name": "VV Ultimatum 武器 Tier List",
+          "name": "BAKUDO 武器 Tier List",
           "description": "武器の選択は種族に紐付いています。滅却師は最も選択肢が多く、死神は斬魄刀の成長に注力します。",
           "href": "/tier-list",
           "displayType": "tier-grid",
@@ -336,9 +331,9 @@
         },
         {
           "order": 7,
-          "name": "VV Ultimatum 虚 進行ガイド",
+          "name": "BAKUDO 虚 進行ガイド",
           "description": "虚の進行は忍耐が報われます。面具除去を急ぐと、最終ビルドが弱体化する可能性があります。",
-          "href": "/guide/VV-Ultimatum-bleach",
+          "href": "/guide",
           "displayType": "step-by-step",
           "highlights": [
             {
@@ -369,9 +364,9 @@
         },
         {
           "order": 8,
-          "name": "VV Ultimatum 死神 進行ガイド",
+          "name": "BAKUDO 死神 進行ガイド",
           "description": "死神ルートは安定したクエスト進行、ソウルポーターミッション、瞑想タイミング、そして始解戦を中心に構成されています。",
-          "href": "/races/vv-ultimatum-shinigami-guide",
+          "href": "/races",
           "displayType": "step-by-step",
           "highlights": [
             {
@@ -404,11 +399,11 @@
     },
     "faq": {
       "title": "よくある質問",
-      "description": "VV: ULTIMATUM に関するよくある質問への簡潔な回答。",
+      "description": "BAKUDO に関するよくある質問への簡潔な回答。",
       "items": [
         {
-          "question": "VV: ULTIMATUM とは何ですか？",
-          "answer": "VV: ULTIMATUM は Bleach アニメをベースにした Roblox の無料格闘 RPG です。死神（ソウルリーパー）・滅却師・虚の3種族から1つを選び、それぞれ独自の進行・戦闘能力・進化システムを持ちます。130以上のスキル、Lv100の上限、ボス戦、深いビルドカスタマイズが特徴です。"
+          "question": "BAKUDO とは何ですか？",
+          "answer": "BAKUDO は Bleach アニメをベースにした Roblox の無料格闘 RPG です。死神（ソウルリーパー）・滅却師・虚の3種族から1つを選び、それぞれ独自の進行・戦闘能力・進化システムを持ちます。130以上のスキル、Lv100の上限、ボス戦、深いビルドカスタマイズが特徴です。"
         },
         {
           "question": "初心者はどの種族を選ぶべき？",
@@ -429,19 +424,19 @@
       ]
     },
     "finalCta": {
-      "title": "VV: ULTIMATUM をマスターする準備はできましたか？",
-      "description": "Fort Adams での最初の一歩からエンドゲームのボス戦まで、コミュニティ Wiki が無料の最新ガイドでサポートします。",
-      "primary": "初心者ガイドを読む",
-      "secondary": "Roblox でプレイ"
+      "title": "BAKUDOを極める準備はできましたか？",
+      "description": "学園での最初の戦いから強敵とのボス戦まで、キャラクター、戦闘システム、対応プラットフォーム、最新情報をまとめてお届けします。",
+      "primary": "BAKUDO攻略ガイドを見る",
+      "secondary": "SteamでBAKUDOをチェック"
     }
   },
   "bosses": {
     "meta": {
-      "title": "ボス — 完全攻略ガイド | VV Ultimatum Wiki",
-      "description": "VV: ULTIMATUM の全ボス攻略ガイド。チュートリアルのGelumからエンドゲームコンテンツまで、攻略・ドロップ・リスポーン情報。"
+      "title": "ボス — 完全攻略ガイド | BAKUDO Wiki",
+      "description": "BAKUDO の全ボス攻略ガイド。チュートリアルのGelumからエンドゲームコンテンツまで、攻略・ドロップ・リスポーン情報。"
     },
     "overviewTitle": "ボス一覧",
-    "overviewDescription": "VV: ULTIMATUM に登場する全ボスの攻略ガイド。チュートリアルのGelumからエンドゲームのGelid Dweller、Gauntletチャレンジまで。",
+    "overviewDescription": "BAKUDO に登場する全ボスの攻略ガイド。チュートリアルのGelumからエンドゲームのGelid Dweller、Gauntletチャレンジまで。",
     "guidesTitle": "ボス攻略ガイド",
     "readMore": "続きを読む",
     "new": "New",
@@ -466,21 +461,22 @@
     "noGuidesAvailable": "ガイドはまだありません。お楽しみに！"
   },
   "footer": {
-    "aboutTitle": "VV Ultimatum Wiki",
-    "about": "VV Ultimatum Wiki は、新規プレイヤーからベテランまで、進行ルート・種族・ボス・ビルドなど幅広いゲーム知識を網羅したファン制作の攻略サイトです。",
+    "aboutTitle": "BAKUDO攻略ガイド",
+    "about": "BAKUDO攻略ガイドは、キャラクター、球技ボスバトル、戦闘システム、学園ストーリー、対応プラットフォーム、最新情報を扱うファン制作の独立系ガイドサイトです。",
     "quickLinks": "クイックリンク",
     "guides": "ガイド",
     "legal": "法務",
-    "copyright": "© 2026 VV: ULTIMATUM Wiki. Midnight Continent および Roblox とは無関係です。",
-    "description": "Roblox の無料 Bleach 系格闘 RPG。3種族、130以上のスキル、Lv100上限。",
-    "playGame": "VV: ULTIMATUM をプレイ",
-    "officialDiscord": "公式 Discord",
-    "officialYoutube": "公式 YouTube",
-    "vvBuilder": "VV Builder（スキルプランナー）",
+    "copyright": "© 2026 BAKUDO攻略ガイド。SAYIL GAMESおよびSHUEISHA GAMESとは関係ありません。",
+    "description": "SAYIL GAMESとSHUEISHA GAMESによるSF学園ボスラッシュアクション。2027年にSteamとNintendo Switch 2で発売予定。",
+    "playGame": "SteamでBAKUDOを見る",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "BAKUDO公式YouTube",
+    "officialX": "SHUEISHA GAMES公式X",
+    "vvBuilder": "BAKUDO公式サイト",
     "beginnerGuide": "初心者ガイド",
-    "raceGuides": "種族ガイド",
+    "raceGuides": "キャラクターガイド",
     "bossGuides": "ボスガイド",
-    "buildGuide": "ビルドガイド",
+    "buildGuide": "戦闘ガイド",
     "privacyPolicy": "プライバシーポリシー",
     "termsOfService": "利用規約"
   }

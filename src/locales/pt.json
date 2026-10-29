@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Guias Completos, Códigos, Receitas e Tier Lists",
-    "description": "Seu guia definitivo para My Seafood Stand no Roblox! Descubra códigos ativos, receitas de frutos do mar, melhores melhorias, estratégias de lucro e guias de progressão.",
-    "legalNotice": "Wiki não oficial feita por fãs. Criada por jogadores, para jogadores."
+    "name": "Wiki de BAKUDO",
+    "shortName": "BAKUDO",
+    "tagline": "Guias de boss rush sci-fi, personagens e novidades",
+    "description": "Explore BAKUDO, um jogo de ação sci-fi de boss rush escolar com intensas batalhas de bola. Descubra personagens, mecânicas de combate, estratégias contra chefes, história, plataformas e novidades.",
+    "legalNotice": "Wiki de fãs não oficial. Sem afiliação com SAYIL GAMES ou SHUEISHA GAMES."
   },
   "nav": {
     "races": "Raças",
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Códigos, Receitas, Melhorias e Guias",
-      "description": "Guia completo de My Seafood Stand no Roblox com códigos ativos válidos, todos os peixes e receitas, tier list das melhores melhorias e dicas para ganhar dinheiro rápido."
+      "title": "Wiki de BAKUDO — Chefes, personagens e guias",
+      "description": "Explore BAKUDO com perfis de personagens, guias de chefes, mecânicas de combate, história, trailers, plataformas e novidades para PC e Nintendo Switch 2."
     },
     "hero": {
-      "eyebrow": "Wiki da Comunidade Criada por Fãs",
-      "title": "My Seafood Stand",
-      "description": "Domine seu restaurante em My Seafood Stand no Roblox. Acesse todos os códigos ativos, catálogo completo de peixes e receitas, melhores melhorias e estratégias profissionais para lucrar.",
+      "eyebrow": "Ação sci-fi de boss rush escolar",
+      "title": "Wiki de BAKUDO",
+      "description": "Explore BAKUDO, um jogo de ação sci-fi escolar com intensas batalhas de bola contra chefes. Descubra personagens, mecânicas de combate, estratégias, história, plataformas e novidades.",
       "stats": [
-        "Todos os Códigos",
-        "Todos os Peixes e Receitas",
-        "Guias de Melhorias",
-        "Dicas de Dinheiro Rápido"
+        "Lançamento em 2027",
+        "2 plataformas",
+        "1 jogador",
+        "8 idiomas"
       ],
-      "primaryCta": "Guia para Iniciantes",
-      "secondaryCta": "Tier List de Frutos do Mar",
-      "tertiaryCta": "Códigos Ativos",
-      "videoLabel": "Mídia oficial"
+      "primaryCta": "Ver na Steam",
+      "secondaryCta": "Site oficial",
+      "tertiaryCta": "Assistir ao trailer oficial",
+      "videoLabel": "Trailer oficial"
     },
     "updates": {
       "title": "Últimas Atualizações",
@@ -51,7 +51,7 @@
     },
     "start": {
       "eyebrow": "Comece Aqui",
-      "title": "Sua Jornada em My Seafood Stand",
+      "title": "Sua Jornada em BAKUDO",
       "cards": [
         {
           "number": "1",
@@ -71,7 +71,7 @@
         {
           "number": "4",
           "title": "Como Extrair",
-          "description": "Aprenda os melhores métodos e locais para extrair recursos em My Seafood Stand."
+          "description": "Aprenda os melhores métodos e locais para extrair recursos em BAKUDO."
         }
       ]
     },
@@ -142,61 +142,57 @@
       ]
     },
     "aboutGame": {
-      "title": "O que é My Seafood Stand?",
+      "title": "O que é BAKUDO?",
       "paragraphs": [
-        "My Seafood Stand é um RPG de luta estilizado no Roblox inspirado no universo do anime Bleach. Escolha entre três raças jogáveis — Shinigami, Quincy ou Hollow —, cada uma com sistemas de progressão exclusivos, habilidades desbloqueáveis e caminhos de evolução. Domine mais de 130 habilidades enquanto luta até atingir o nível máximo de 100.",
-        "Seja desbloqueando sua primeira Shikai, evoluindo de um Hollow básico para um Arrancar ou concluindo missões de Tenente Quincy, nossa wiki cobre todos os sistemas com guias detalhados, tabelas de dados e tutoriais passo a passo."
+        "BAKUDO é um jogo de ação sci-fi de boss rush escolar desenvolvido pela SAYIL GAMES e publicado pela SHUEISHA GAMES. Participe de intensas partidas da academia, aprenda os padrões de cada adversário e monte uma equipe capaz de superar chefes poderosos.",
+        "Nossa wiki reúne personagens confirmados, mecânicas de combate, estratégias contra chefes, história, plataformas compatíveis e novidades. BAKUDO está previsto para Steam e Nintendo Switch 2 em 2027, com um jogador e oito idiomas."
       ],
       "stats": [
         {
-          "label": "Desenvolvedor",
-          "value": "Midnight Continent"
+          "label": "Desenvolvedora",
+          "value": "SAYIL GAMES"
         },
         {
-          "label": "Plataforma",
-          "value": "Roblox"
+          "label": "Publicadora",
+          "value": "SHUEISHA GAMES"
         },
         {
-          "label": "Gênero",
-          "value": "RPG de Luta"
+          "label": "Plataformas",
+          "value": "Steam · Switch 2"
         },
         {
-          "label": "Visitas",
-          "value": "12,6M+"
+          "label": "Lançamento",
+          "value": "2027"
         },
         {
-          "label": "Favoritos",
-          "value": "243 mil+"
+          "label": "Jogadores",
+          "value": "1"
         },
         {
-          "label": "Total de Habilidades",
-          "value": "130+"
-        },
-        {
-          "label": "Nível Máximo",
-          "value": "100"
+          "label": "Idiomas",
+          "value": "8"
         }
       ],
-      "cta": "Explorar Todos os Guias"
+      "cta": "Explorar guias de BAKUDO"
     },
     "explore": {
-      "title": "Explorar a Wiki de My Seafood Stand",
+      "title": "Explorar a Wiki de BAKUDO",
       "description": "Domine seu restaurante de frutos do mar no Roblox com guias essenciais de progressão, códigos ativos, catálogo completo de peixes e receitas e estratégias ideais de melhorias.",
       "modules": [
         {
           "order": 1,
-          "name": "Códigos Válidos de My Seafood Stand",
+          "name": "Códigos Válidos de BAKUDO",
           "description": "Resgate os códigos ativos mais recentes para garantir moedas grátis, gemas, cosméticos exclusivos e itens de boost antes que expirem.",
-          "href": "/codes/my-seafood-stand-codes",
+          "href": "/codes",
           "displayType": "code-box",
           "highlights": [
             {
               "label": "Código",
-              "detail": "FULLRELEASE — Dinheiro e Recompensas Grátis"
+              "detail": "COMING-SOON — Dinheiro e Recompensas Grátis"
             },
             {
               "label": "Código",
-              "detail": "75KLIKES — Reroll de Habilidade Exclusivo"
+              "detail": "STAY-TUNED — Reroll de Habilidade Exclusivo"
             },
             {
               "label": "Dica",
@@ -208,7 +204,7 @@
           "order": 2,
           "name": "Guia para Iniciantes: Como Começar e Atender Clientes",
           "description": "Guia passo a passo para iniciantes cobrindo pedidos de clientes, preparo de alimentos, gerenciamento de estações e mecânicas de caixa registradora.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
+          "href": "/guide",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -229,7 +225,7 @@
           "order": 3,
           "name": "Tier List de Peixes e Frutos do Mar",
           "description": "Detalhamento completo de todos os peixes e frutos do mar capturáveis, ranqueados por valor de mercado, demanda dos clientes e margens de lucro.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "href": "/tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
@@ -254,7 +250,7 @@
           "order": 4,
           "name": "Progressão das Melhores Melhorias",
           "description": "Ordem ideal para gastar seu dinheiro: expanda estações de cozinha, contrate garçons, acelere as grelhas e melhore os assentos.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
+          "href": "/guide",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -275,7 +271,7 @@
           "order": 5,
           "name": "Como Ganhar Dinheiro Rápido",
           "description": "Principais estratégias para lucrar, avaliação VIP, maximização de gorjetas e dicas de atendimento de alta eficiência.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
+          "href": "/guide",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -296,7 +292,7 @@
           "order": 6,
           "name": "Expansão de Terreno e Personalização da Barraca",
           "description": "Desbloqueie terrenos maiores, organize layouts de cozinha ideais e adicione decorações de alto valor.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
+          "href": "/guide",
           "displayType": "feature-cards",
           "highlights": [
             {
@@ -317,11 +313,11 @@
     },
     "faq": {
       "title": "Perguntas Frequentes",
-      "description": "Respostas rápidas para as dúvidas mais comuns sobre My Seafood Stand.",
+      "description": "Respostas rápidas para as dúvidas mais comuns sobre BAKUDO.",
       "items": [
         {
-          "question": "O que é My Seafood Stand?",
-          "answer": "My Seafood Stand é um RPG de luta gratuito no Roblox baseado no anime Bleach. Você escolhe uma das mecânicas de jogo: Shinigami (Ceifador de Almas), Quincy ou Hollow, cada uma com sistemas únicos de progressão, habilidades de combate e evolução. O jogo conta com mais de 130 habilidades, nível máximo 100, lutas contra chefes e profunda personalização de builds."
+          "question": "O que é BAKUDO?",
+          "answer": "BAKUDO é um RPG de luta gratuito no Roblox baseado no anime Bleach. Você escolhe uma das mecânicas de jogo: Shinigami (Ceifador de Almas), Quincy ou Hollow, cada uma com sistemas únicos de progressão, habilidades de combate e evolução. O jogo conta com mais de 130 habilidades, nível máximo 100, lutas contra chefes e profunda personalização de builds."
         },
         {
           "question": "Qual raça os iniciantes devem escolher?",
@@ -342,20 +338,20 @@
       ]
     },
     "finalCta": {
-      "title": "Pronto para Dominar My Seafood Stand?",
-      "description": "Dos seus primeiros passos em Fort Adams até as lutas contra chefes no endgame — nossa wiki da comunidade traz tudo o que você precisa com guias gratuitos e atualizados.",
-      "primary": "Ler o Guia para Iniciantes",
-      "secondary": "Jogar no Roblox"
+      "title": "Pronto para dominar BAKUDO?",
+      "description": "Das primeiras batalhas na academia aos desafios contra chefes, nossa wiki reúne personagens, mecânicas, plataformas e novidades.",
+      "primary": "Explorar guias de BAKUDO",
+      "secondary": "Ver BAKUDO na Steam"
     }
   },
   "bosses": {
     "meta": {
-      "title": "Chefes — Guia Completo e Detalhado | My Seafood Stand Wiki",
-      "description": "Guias completos de chefes para My Seafood Stand — todos os chefes, desde o cavaleiro Gelum no tutorial até confrontos de endgame, com estratégias, drops e tempos de respawn."
+      "title": "Chefes — Guia Completo e Detalhado | BAKUDO Wiki",
+      "description": "Guias completos de chefes para BAKUDO — todos os chefes, desde o cavaleiro Gelum no tutorial até confrontos de endgame, com estratégias, drops e tempos de respawn."
     },
     "overviewTitle": "Visão Geral dos Chefes",
-    "overviewDescription": "Guias completos para todos os confrontos de chefes em My Seafood Stand — 13 chefes, desde o cavaleiro do tutorial Gelum até confrontos de endgame como Gelid Dweller e desafios de Gauntlet.",
-    "body": "Os chefes em My Seafood Stand servem como testes de habilidade e marcos de progressão. Alguns, como Gelum, ensinam os fundamentos do combate durante o tutorial. Outros, como o Espírito Shikai e o Espírito Resurrección, são encontros no mundo interior diretamente ligados ao desbloqueio de poder da sua raça. Chefes de área como Dragonfly, King Croc e Securis guardam o acesso a novas zonas e recompensas. As adições recentes incluem o Rogue Commander com seus Minions, o temático de gelo The Everfrosted e quatro novos chefes de endgame: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts e o Wandering Swordsman (Junichiro). Cada chefe possui padrões de ataque distintos e movimentos telegrafados que você precisa aprender. Use os guias abaixo para se preparar para cada luta.",
+    "overviewDescription": "Guias completos para todos os confrontos de chefes em BAKUDO — 13 chefes, desde o cavaleiro do tutorial Gelum até confrontos de endgame como Gelid Dweller e desafios de Gauntlet.",
+    "body": "Os chefes em BAKUDO servem como testes de habilidade e marcos de progressão. Alguns, como Gelum, ensinam os fundamentos do combate durante o tutorial. Outros, como o Espírito Shikai e o Espírito Resurrección, são encontros no mundo interior diretamente ligados ao desbloqueio de poder da sua raça. Chefes de área como Dragonfly, King Croc e Securis guardam o acesso a novas zonas e recompensas. As adições recentes incluem o Rogue Commander com seus Minions, o temático de gelo The Everfrosted e quatro novos chefes de endgame: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts e o Wandering Swordsman (Junichiro). Cada chefe possui padrões de ataque distintos e movimentos telegrafados que você precisa aprender. Use os guias abaixo para se preparar para cada luta.",
     "guidesTitle": "Guias de Chefes",
     "readMore": "Ler mais",
     "new": "Novo",
@@ -379,22 +375,23 @@
     "noGuidesAvailable": "Nenhum guia disponível ainda. Volte em breve!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "A My Seafood Stand Wiki é uma central de guias independente criada por fãs, cobrindo rotas de progressão, raças, chefes, builds e conhecimentos essenciais do jogo para novatos e veteranos.",
-    "quickLinks": "Links Rápidos",
+    "aboutTitle": "Wiki de BAKUDO",
+    "about": "A Wiki de BAKUDO é uma central de guias independente criada por fãs que cobre personagens, batalhas de bola contra chefes, mecânicas, história, plataformas e novidades.",
+    "quickLinks": "Links rápidos",
     "guides": "Guias",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Não afiliado à Midnight Continent ou ao Roblox.",
-    "description": "RPG de luta gratuito no Roblox inspirado em Bleach. 3 raças, mais de 130 habilidades, Nív. 100 máx.",
-    "playGame": "Jogar My Seafood Stand",
-    "officialDiscord": "Discord Oficial",
-    "officialYoutube": "YouTube Oficial",
-    "vvBuilder": "VV Builder (Planejador de Habilidades)",
-    "beginnerGuide": "Guia para Iniciantes",
-    "raceGuides": "Guias de Raças",
-    "bossGuides": "Guias de Chefes",
-    "buildGuide": "Guia de Builds",
-    "privacyPolicy": "Política de Privacidade",
-    "termsOfService": "Termos de Serviço"
+    "copyright": "© 2026 Wiki de BAKUDO. Sem afiliação com SAYIL GAMES ou SHUEISHA GAMES.",
+    "description": "Jogo de ação sci-fi de boss rush escolar da SAYIL GAMES e SHUEISHA GAMES. Lançamento em 2027 para Steam e Nintendo Switch 2.",
+    "playGame": "Ver BAKUDO na Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial de BAKUDO",
+    "officialX": "SHUEISHA GAMES no X",
+    "vvBuilder": "Site oficial de BAKUDO",
+    "beginnerGuide": "Guia para iniciantes",
+    "raceGuides": "Guias de personagens",
+    "bossGuides": "Guias de chefes",
+    "buildGuide": "Guia de combate",
+    "privacyPolicy": "Política de privacidade",
+    "termsOfService": "Termos de serviço"
   }
 }

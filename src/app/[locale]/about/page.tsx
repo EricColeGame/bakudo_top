@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>BAKUDO Wiki is an independent fan-built guide hub covering characters, ball-sport boss battles, combat mechanics, academy story details, platforms, and release updates for new and veteran players alike.</p>
+      <p>BAKUDO is a sci-fi school boss rush action game developed by SAYIL GAMES and published by SHUEISHA GAMES, planned for Steam and Nintendo Switch 2 in 2027.</p>
     </LegalPage>
   );
 }

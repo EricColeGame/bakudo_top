@@ -24,8 +24,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "BAKUDO Wiki", template: "%s" },
-    description: "Explore BAKUDO with character profiles, boss guides, combat mechanics, story details, trailers, platform news, and release updates for PC and Nintendo Switch 2.",
+    title: { default: "BAKUDO Wiki", template: `%s | ${siteConfig.name}` },
+    description: siteConfig.description,
     manifest: "/manifest.json",
     icons: {
       icon: [{ url: "/favicon.ico" }, { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" }],
@@ -33,8 +33,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       shortcut: "/favicon.ico",
     },
     appleWebApp: { capable: true, statusBarStyle: "default", title: "BAKUDO Wiki" },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, images: [{ url: image, width: 1920, height: 1080, alt: "BAKUDO official key art" }] },
+    twitter: { card: "summary_large_image", title: "BAKUDO Wiki", description: siteConfig.description, images: [{ url: image, alt: "BAKUDO official key art" }] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -49,8 +49,9 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     "@type": "Organization",
     name: siteConfig.name,
     url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    "logo": `${siteUrl}/android-chrome-512x512.png`,
+    "image": `${siteUrl}/images/hero.webp`,
+    sameAs: [siteConfig.social?.website, siteConfig.social?.youtube, siteConfig.social?.twitter].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
