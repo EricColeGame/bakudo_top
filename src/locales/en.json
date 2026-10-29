@@ -6,7 +6,15 @@
     "description": "Explore BAKUDO with character profiles, boss guides, combat mechanics, story details, trailers, platform news, and release updates for PC and Nintendo Switch 2.",
     "legalNotice": "Unofficial fan wiki. Not affiliated with SAYIL GAMES or SHUEISHA GAMES."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "modes": "Modes",
+    "combat": "Combat",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "release": "Release",
+    "codes": "Codes"
+  },
   "home": {
     "meta": {
       "title": "BAKUDO Wiki — Boss Battles, Characters & Guides",
@@ -387,7 +395,34 @@
       "secondary": "View BAKUDO on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "BAKUDO Guides",
+    "overviewDescription": "Start with beginner walkthroughs, demo routes, trainer strategies, and practical tips for every stage of BAKUDO."
+  },
+  "modes": {
+    "overviewTitle": "BAKUDO Game Modes",
+    "overviewDescription": "Compare the demo, full game structure, Boss Rush, school stages, and boss battle modes available in BAKUDO."
+  },
+  "combat": {
+    "overviewTitle": "BAKUDO Combat Guides",
+    "overviewDescription": "Learn dodgeball combat, Cade boss patterns, no-hit clears, and S Rank routes for BAKUDO."
+  },
+  "mechanics": {
+    "overviewTitle": "BAKUDO Mechanics",
+    "overviewDescription": "Understand controls, Coreball gameplay, dodgeball rules, and replayability systems in BAKUDO."
+  },
+  "characters": {
+    "overviewTitle": "BAKUDO Characters",
+    "overviewDescription": "Meet Cade, Yuria, and the wider cast, then compare roles, abilities, and character strategies in BAKUDO."
+  },
+  "release": {
+    "overviewTitle": "BAKUDO Release & Platforms",
+    "overviewDescription": "Follow BAKUDO release details, Steam and Nintendo Switch 2 availability, trailers, and official updates."
+  },
+  "codes": {
+    "overviewTitle": "BAKUDO Codes",
+    "overviewDescription": "Check the latest BAKUDO codes, redemption steps, and active reward updates."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -420,8 +455,8 @@
     "vvBuilder": "BAKUDO Official Website",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Character Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Combat Guide",
+    "bossGuides": "Combat Guides",
+    "buildGuide": "Mechanics Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
