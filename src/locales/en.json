@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn movement, camera control, screen reading, and the practice habits that make every BAKUDO session more productive."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Combat Basics",
+          "description": "Understand Coreball rallies, return timing, court positioning, and the recovery windows that turn defense into damage."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Boss Battle Guide",
+          "description": "Prepare for the Stellar Eight with pattern-reading routines, punish-window drills, and clean ten-day run planning."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in BAKUDO."
+          "title": "Coreball Mechanics",
+          "description": "Read chance balls through their shadows and arcs, hold center court, and push toward cleaner S Rank clears."
         }
       ]
     },
@@ -62,73 +62,55 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Boss Battles",
+        "Character Guide",
+        "Release Date"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "BAKUDO Beginner Guide",
+          "description": "Build clean inputs, screen awareness, and a repeatable practice routine before chasing advanced techniques.",
+          "href": "/guide/bakudo-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Combat",
+          "title": "BAKUDO Boss Battle Guide",
+          "description": "Read the Stellar Eight's tells, prepare each attempt, and convert recovery windows into clean punishes.",
+          "href": "/combat/bakudo-boss-fight"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Mechanics",
+          "title": "BAKUDO Combat Mechanics",
+          "description": "Learn how Coreball rallies, chance balls, court positioning, and ranked clears fit together.",
+          "href": "/mechanics/bakudo-gameplay"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Cast",
+          "title": "BAKUDO Character Guide",
+          "description": "Meet Yuria, Evie, Aria, and the Stellar Eight behind the Soliris Academy story.",
+          "href": "/characters/bakudo-character-guide"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Demo",
+          "title": "BAKUDO Demo Guide",
+          "description": "See what the Steam Boss Rush Demo contains and how to get more from each replay.",
+          "href": "/modes/bakudo-demo"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "2027",
+          "title": "BAKUDO Release Date",
+          "description": "Track the confirmed 2027 window, Steam and Nintendo Switch 2 plans, and the latest official reveal.",
+          "href": "/release/bakudo-release-date"
         }
       ]
     },
     "aboutGame": {
       "title": "What is BAKUDO?",
       "paragraphs": [
-        "BAKUDO is a sci-fi school ball-sport boss rush action game developed by SAYIL GAMES and published by SHUEISHA GAMES. Compete in high-intensity academy matches, learn each opponent pattern, and build a team capable of overcoming powerful bosses.",
-        "Our wiki tracks confirmed characters, combat mechanics, boss strategies, story details, supported platforms, and release updates. BAKUDO is planned for Steam and Nintendo Switch 2 in 2027 with single-player support and eight supported languages."
+        "BAKUDO is a sci-fi school ball-sport boss rush action game developed by SAYIL GAMES and published by SHUEISHA GAMES. At Soliris Academy, Yuria has ten in-game days to defeat the Stellar Eight, the school's top-ranked students, while searching for the clue her missing father left behind.",
+        "Combat turns ball movement into offense: positioning, return timing, and reading the ball's arc matter as much as reflexes. BAKUDO is planned for Steam and Nintendo Switch 2 in 2027, with a single-player campaign and support for eight languages."
       ],
       "stats": [
         {
@@ -160,135 +142,209 @@
     },
     "explore": {
       "title": "Explore BAKUDO Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Browse BAKUDO guides for beginner fundamentals, Stellar Eight boss fights, Coreball mechanics, characters, controls, the demo, platforms, and official updates.",
       "modules": [
         {
           "order": 1,
-          "name": "BAKUDO Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes",
-          "displayType": "code-box",
+          "name": "BAKUDO Beginner Guide",
+          "description": "Learn the fundamentals of BAKUDO, from clean movement and screen reading to short practice loops that build reliable habits before ranked boss attempts.",
+          "href": "/guide/bakudo-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "COMING-SOON — No active codes currently available"
+              "label": "1",
+              "detail": "Start with movement and camera control, keeping each action smooth and deliberate."
             },
             {
-              "label": "Code",
-              "detail": "STAY-TUNED — Check back soon for new codes"
+              "label": "2",
+              "detail": "Read the arena for your status, nearby threats, and any visible timers or indicators."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Practice one reliable sequence until it becomes an automatic fallback under pressure."
+            },
+            {
+              "label": "4",
+              "detail": "Reset to a neutral, ready state after mistakes and review each short practice attempt."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "BAKUDO Boss Battle Guide",
+          "description": "Study the Stellar Eight's ranked ladder, read each opponent's tells, and turn recovery windows into clean punish opportunities.",
+          "href": "/combat/bakudo-boss-fight",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Aria — top-ranked Stellar Eight rival and the final skill ceiling."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Flash — high-difficulty challenge boss with an S Rank reward."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "CADE — demo benchmark boss used to measure cleaner clears."
+            },
+            {
+              "label": "C",
+              "detail": "Stellar Eight — eight ranked students, each with a distinct fighting style."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/tier-list",
-          "displayType": "tier-grid",
+          "name": "BAKUDO Combat Mechanics",
+          "description": "Understand Coreball rallies, court positioning, chance-ball depth, and the graded-clear system that rewards precision over button mashing.",
+          "href": "/mechanics/bakudo-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Rally",
+              "detail": "Treat each exchange as a serve, return, and escalating tempo until someone misses."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Chance",
+              "detail": "Track the ball's shadow and arc instead of watching only the boss silhouette."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Center",
+              "detail": "Hold mid-court to preserve attack angles and an escape route during wind-ups."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Punish",
+              "detail": "Strike during recovery frames after a telegraphed attack instead of mashing."
+            },
+            {
+              "label": "S Rank",
+              "detail": "Clear time, damage taken, and wasted punish windows reveal progress between attempts."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "BAKUDO Character Guide",
+          "description": "Meet Yuria, Evie, Aria, and the Stellar Eight, with the story roles and rivalries that frame the ten-day academy challenge.",
+          "href": "/characters/bakudo-character-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Yuria",
+              "detail": "Coreball student searching for the clue her missing father left behind."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Evie",
+              "detail": "Yuria's partner and steadying presence through the ten-day challenge."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Aria",
+              "detail": "Top-ranked Stellar Eight rival who hands Yuria the academy ultimatum."
+            },
+            {
+              "label": "Rivals",
+              "detail": "The Stellar Eight each bring a distinct style to the ranked ladder."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "BAKUDO Controls Guide",
+          "description": "Build a reliable input routine for movement, camera control, screen awareness, and clean resets before adding advanced combat techniques.",
+          "href": "/guide/bakudo-beginner-guide",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Move",
+              "detail": "Build movement comfort before adding camera adjustments or attack inputs."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Camera",
+              "detail": "Practice moving and adjusting the view at the same time until it feels automatic."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Read",
+              "detail": "Scan your status, threats, and timers instead of watching only your character."
+            },
+            {
+              "label": "Reset",
+              "detail": "Return to a neutral, ready state after every failed exchange."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "BAKUDO Demo Guide",
+          "description": "See what the Steam Boss Rush Demo includes, how its real-time fights work, and which habits make the first session more productive.",
+          "href": "/modes/bakudo-demo",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Free Demo",
+              "detail": "Try the Boss Rush Demo through the official BAKUDO Steam page."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Roster",
+              "detail": "Expect a curated combat slice rather than the complete Stellar Eight roster."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Input",
+              "detail": "Xbox and PlayStation controllers are both supported in the demo."
+            },
+            {
+              "label": "Replay",
+              "detail": "Repeat one boss to turn pattern recognition into faster, cleaner clears."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "BAKUDO Release Date and Platforms",
+          "description": "Track BAKUDO's 2027 release window, Steam and Nintendo Switch 2 launch plans, single-player structure, and eight supported languages.",
+          "href": "/release/bakudo-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "2027",
+              "detail": "BAKUDO is planned for a 2027 release window."
+            },
+            {
+              "label": "Steam",
+              "detail": "The BAKUDO Steam page is live and ready for wishlists."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Nintendo Switch 2 was confirmed in the October 2026 reveal."
+            },
+            {
+              "label": "1 Player",
+              "detail": "Official materials list BAKUDO as a single-player experience."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "BAKUDO News and Updates",
+          "description": "Follow BAKUDO's official trailer, Switch 2 reveal, playable demo, and character announcements through verified release updates.",
+          "href": "/release/bakudo-official-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "Watch the official BAKUDO announcement trailer for the game's tone and combat."
+            },
+            {
+              "label": "Switch 2",
+              "detail": "The Indie World reveal confirmed the Nintendo Switch 2 version."
+            },
+            {
+              "label": "Demo",
+              "detail": "Steam hosts the playable BAKUDO Boss Rush Demo."
+            },
+            {
+              "label": "Cast",
+              "detail": "Yuria, Evie, and Aria headline the latest character profiles."
             }
           ]
         }
@@ -300,23 +356,27 @@
       "items": [
         {
           "question": "What is BAKUDO?",
-          "answer": "BAKUDO is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "BAKUDO is a sci-fi school ball-sport boss rush action game from developer SAYIL GAMES and publisher SHUEISHA GAMES. Yuria enters Soliris Academy's Coreball Department and must defeat the Stellar Eight within ten in-game days while searching for a clue left by her missing father."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is BAKUDO a single-player game?",
+          "answer": "Yes. Official materials list BAKUDO as a single-player experience with one player, built around a story-driven academy campaign and a ranked boss-rush ladder."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "When is the BAKUDO release date?",
+          "answer": "BAKUDO is planned for 2027. SHUEISHA GAMES has confirmed the release window but has not announced a specific month or day."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Which platforms will BAKUDO launch on?",
+          "answer": "BAKUDO is confirmed for Steam and Nintendo Switch 2. The Switch 2 version was revealed during Indie World on October 28, 2026."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How does BAKUDO combat work?",
+          "answer": "BAKUDO combat is built around Coreball rallies. Positioning, ball-return timing, chance-ball reads, and punishes after telegraphed attacks matter more than mashing; clears are graded, with S Rank as the top benchmark."
+        },
+        {
+          "question": "Where can I try the BAKUDO demo?",
+          "answer": "The BAKUDO Boss Rush Demo is available through the official Steam page. Xbox and PlayStation controllers are supported, and replaying one boss is the fastest way to learn its pattern."
         }
       ]
     },
