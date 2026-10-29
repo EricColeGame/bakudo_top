@@ -34,6 +34,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@shueishagames6941",
     twitter: "https://x.com/shueisha_games",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "ko", "es"],
   defaultLocale: "en",
 };
