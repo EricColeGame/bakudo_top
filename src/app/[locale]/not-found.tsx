@@ -1,14 +1,33 @@
+"use client";
+
 import Link from "next/link";
-import { Button } from "@/components/ui/button";
+import { useLocale } from "next-intl";
+import { shoppingCopy } from "@/locales/shopping";
+import { shoppingHref, translate, words } from "@/lib/shopping";
 
 export default function NotFoundPage() {
+  const locale = useLocale();
+  const copy = shoppingCopy(locale);
   return (
-    <main className="mx-auto grid min-h-[60vh] max-w-3xl place-items-center px-4 py-16 text-center">
-      <div className="rounded-3xl border border-border bg-card/70 p-8">
-        <h1 className="text-4xl font-extrabold tracking-tight text-foreground">Page not found</h1>
-        <p className="mt-4 text-muted-foreground">The guide you are looking for may have moved or has not been added yet.</p>
-        <Button asChild className="mt-6"><Link href="/en/combat">Browse Combat Guides</Link></Button>
-      </div>
+    <main
+      id="main-content"
+      className="shop-container shop-empty shop-not-found"
+    >
+      <span className="shop-kicker">404 / Bakudo PICKS</span>
+      <h1>
+        {translate(
+          words(
+            "This page has moved on.",
+            "Esta página ya no está aquí.",
+            "Esta página não está mais aqui.",
+            "Diese Seite ist weitergezogen.",
+          ),
+          locale,
+        )}
+      </h1>
+      <Link className="shop-button" href={shoppingHref(locale, "/browse")}>
+        {copy.browse}
+      </Link>
     </main>
   );
 }
